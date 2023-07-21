@@ -1,0 +1,21 @@
+#navbar{
+    background-color: rgb(255, 228, 196);
+}
+#navbar-container{
+  padding-left: 8em;
+  padding-right: 8em;
+}
+.fa-moon{
+  color: rgb(255, 228, 196);
+}
+.fa-sun{
+  color: rgb(33, 37, 41)
+
+}
+footer{
+  background-color: bisque;
+  
+}
+a{
+  color:rgb(33, 37, 41)
+}
