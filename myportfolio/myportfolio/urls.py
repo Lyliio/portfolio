@@ -18,7 +18,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 
+
+
 urlpatterns = [
     path("", include("pflylio.urls")),
     path("admin/", admin.site.urls),
+   
 ]
